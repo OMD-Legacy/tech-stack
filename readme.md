@@ -26,3 +26,6 @@ While we understand that everyone has their own preferred way of doing things, w
 
 ## Project Management
   * Microsoft Project, Sharepoint
+
+## Local Development Server
+  * This is up to the engineer, but we highly recomend and support [10updocker](https://10up.github.io/wp-local-docker-docs/). However, feel free to use any environment as long as you can utilize tools such as or similar to WP-CLI, MailCatcher, phpMyAdmin
