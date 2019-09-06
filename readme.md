@@ -28,4 +28,7 @@ While we understand that everyone has their own preferred way of doing things, w
   * Microsoft Project, Sharepoint
 
 ## Local Development Server
-  * This is up to the engineer, but we highly recomend and support [10updocker](https://10up.github.io/wp-local-docker-docs/). However, feel free to use any environment as long as you can utilize tools such as or similar to WP-CLI, MailCatcher, phpMyAdmin
+  * This is up to the engineer, but we highly recomend and support [10updocker](https://10up.github.io/wp-local-docker-docs/) for WordPress development. However, feel free to use any environment as long as you can utilize tools such as or similar to WP-CLI, MailCatcher, phpMyAdmin.
+  
+## IDE
+  * This is up to the engineer, but we prefer you use something that supports debugging and code linting/formatting. OPEN MINDS highly encourages that code be formatted to fit the [WordPress Coding Standards](https://codex.wordpress.org/WordPress_Coding_Standards)
