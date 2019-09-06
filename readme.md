@@ -5,13 +5,16 @@ While we understand that everyone has their own preferred way of doing things, w
 
 ## Content Management
   * WordPress - OPEN MINDS is a content publisher We also help our clients publish content. Given that, most of our work is with content style websites, for which we use WordPress. 
-
-## Laravel
   * We have a few custom tools we use internally that are built using Laravel.
 
-## CSS Frameworks
+## CSS Utilities & Frameworks
   * Tailwind CSS - As it stands now, all of our engineers are primarily backend, so treating css from a utility approach is preferred.
   * Bootstrap & Foundation - Mostly legacy.
+  
+## Javascript Utilities & Frameworks
+  * jQuery
+  * React
+  * React Native
 
 ## Databases
   * MySQL
