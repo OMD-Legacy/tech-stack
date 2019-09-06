@@ -10,7 +10,7 @@ While we understand that everyone has their own preferred way of doing things, w
   * We have a few custom tools we use internally that are built using Laravel.
 
 #### CSS Frameworks
-  * Tailwind CSS - As it stands now, all of our engineers are primarily backend, so treating css from a utility approach is preffered.
+  * Tailwind CSS - As it stands now, all of our engineers are primarily backend, so treating css from a utility approach is preferred.
   * Bootstrap & Foundation - Mostly legacy.
 
 #### Databases
