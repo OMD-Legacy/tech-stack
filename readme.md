@@ -4,7 +4,7 @@ Our team is not large enough to discern between front-end, backend, and devops. 
 While we understand that everyone has their own preferred way of doing things, we do strive to standardize our development processes and tools. Doing so allows our engineers to be flexible and easily coloborate with other engineers. We believe this is critical for a small team in a fast-paced environment where priorities can quickly shift.
 
 ## Content Management
-  * WordPress - OPEN MINDS is a content publisher We also help our clients publish content. Given that, most of our work is with content style websites, for which we use WordPress. 
+  * WordPress - OPEN MINDS is primarily content publisher. We also help our clients publish content. Given that, most of our work is with content style websites, for which we use WordPress. 
   * We have a few custom tools we use internally that are built using Laravel.
 
 ## CSS Utilities & Frameworks
